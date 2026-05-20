@@ -275,5 +275,3 @@ The UI is inspired by **Ethara AI's** official design language:
 - **Progress calculation** via virtual aggregation of task completion
 
 ---
-
-*Built with ❤️ for Ethara AI Hiring Assignment 2024*
