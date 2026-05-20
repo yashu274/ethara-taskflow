@@ -273,5 +273,3 @@ The UI is inspired by **Ethara AI's** official design language:
 - **JWT interceptor** on Axios for automatic auth headers
 - **Auto-overdue detection** via MongoDB updateMany on task queries
 - **Progress calculation** via virtual aggregation of task completion
-
----
